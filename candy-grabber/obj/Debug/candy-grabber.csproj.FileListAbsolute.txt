@@ -5,3 +5,10 @@ C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.cspr
 C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.exe
 C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.pdb
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\bin\Debug\candy-grabber.exe.config
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\bin\Debug\candy-grabber.exe
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\bin\Debug\candy-grabber.pdb
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\obj\Debug\candy-grabber.csprojAssemblyReference.cache
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\obj\Debug\candy-grabber.csproj.CoreCompileInputs.cache
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\obj\Debug\candy-grabber.exe
+C:\Users\capfl\Documents\GitHub\c4ndyGrabber\candy-grabber\obj\Debug\candy-grabber.pdb
